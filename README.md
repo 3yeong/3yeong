@@ -25,7 +25,9 @@
 <h3 align ="center"> 🌱 velog 🌱 </h3>
 
 <div align="center" style="text-align:center">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=3yeong)](https://velog.io/@3yeong)
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=3yeong)](https://velog.io/@3yeong)
+
 </div>
 
 <br>
